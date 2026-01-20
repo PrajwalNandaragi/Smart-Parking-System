@@ -1,8 +1,5 @@
 <?php
-/**
- * Diagnostic and Fix Script for Admin Login
- * This will check and fix the admin account
- */
+
 
 require_once 'config/db.php';
 
