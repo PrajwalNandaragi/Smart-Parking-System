@@ -1,9 +1,4 @@
 <?php
-/**
- * Migration Script - Add vehicle_type column to vehicles table
- * Run this once: http://localhost/Parking/migrate_vehicle_type.php
- * This will automatically add the vehicle_type column and make vehicle_number unique
- */
 
 require_once 'config/db.php';
 
