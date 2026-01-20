@@ -1,8 +1,5 @@
 <?php
-/**
- * Setup Script - Automatically fixes admin password in database
- * Run this once: http://localhost/Parking/setup_admin.php
- */
+
 
 require_once 'config/db.php';
 
