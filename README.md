@@ -150,5 +150,3 @@ You're free to use this project for:
 2. Follow the installation steps above
 3. Customize the design, add your branding, or modify features as needed
 4. Deploy to a web server when ready
-
-
