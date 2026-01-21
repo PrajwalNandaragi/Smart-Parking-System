@@ -119,12 +119,6 @@ Parking/
 - `wallet` - User wallet balances
 - `payments` - Payment transaction history
 
-## Default Data
-
-The SQL file includes:
-- 3 sample parking areas (Main Parking Lot, VIP Parking, Visitor Parking)
-- 23 parking slots across the areas
-- Default admin account (username: `admin`)
 
 ## Notes
 
@@ -135,14 +129,6 @@ The SQL file includes:
 - Base path is set to `/Parking/` in `includes/header.php` - adjust if your folder name is different
 
 ## Using This Project
-
-### For Your Own Use
-
-You're free to use this project for:
-- **Learning PHP/MySQL** - Good example of a complete CRUD application with user authentication
-- **College/University projects** - Can be used as a base for assignments or final year projects
-- **Small businesses** - Deploy it for actual parking management if it fits your needs
-- **Customization** - Modify it to match your specific requirements
 
 ### Getting Started
 
