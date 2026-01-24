@@ -128,8 +128,6 @@ Parking/
 - Timezone is set to Asia/Kolkata in `config/db.php` - change it to your timezone
 - Base path is set to `/Parking/` in `includes/header.php` - adjust if your folder name is different
 
-## Using This Project
-
 ### Getting Started
 
 1. Fork or clone this repository
