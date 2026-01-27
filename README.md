@@ -106,8 +106,7 @@ Parking/
    - Booking status changes to "Completed"
    - Slot becomes available again
 
-5. **Wallet:** Each user has a wallet that can be topped up (you'll need to implement the top-up feature if needed)
-
+5. **Wallet:** Each user has a wallet that can be topped up.
 ## Database Schema
 
 - `users` - User accounts
